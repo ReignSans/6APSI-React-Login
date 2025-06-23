@@ -4,7 +4,6 @@ import './Landing.css';
 function Landing() {
     const navigate = useNavigate();
     const location = useLocation();
-    const { username } = location.state || {};
     
     const handleLogOut = () => {
         navigate('/login', { replace: true });
