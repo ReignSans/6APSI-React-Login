@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "hompage": "https://ReignSans.github.io/6APSI-React-Login",
+  "homepage": "https://ReignSans.github.io/6APSI-React-Login",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
